@@ -1,0 +1,25 @@
+#stat-container{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(203, 203, 203);
+    min-width: 190px;
+    width: 29%;
+    padding: .6rem;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.child{
+    margin-bottom: 1.9rem;
+}
+#price{
+    margin-bottom: 1.3rem;
+}
+#right-angle{
+    background-color: rgba(40, 155, 40, 0.702);
+    background-color: rgb(105, 236, 238);
+    border-radius: 50%;
+    padding: 3px;
+    color: white;
+}

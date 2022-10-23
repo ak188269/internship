@@ -1,0 +1,24 @@
+#proposal-container{
+    width: 31%;
+    /* padding: 0.9rem; */
+    background-color: lightgrey;
+    min-width: 210px;
+   margin-left: 10px;
+   margin-top: 10px;
+}
+.photos{
+    width: 100%;
+}
+.card-price{
+    float: right;
+}
+.card-content{
+
+    /* font-size: 0.6rem; */
+    padding: 1rem;
+    /* padding-bottom: .8rem; */
+}
+.card-title{
+    /* font-size: .7rem; */
+    font-weight: 500;
+}
